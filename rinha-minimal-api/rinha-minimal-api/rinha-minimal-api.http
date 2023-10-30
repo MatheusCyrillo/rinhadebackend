@@ -1,0 +1,6 @@
+@rinha_minimal_api_HostAddress = http://localhost:5042
+
+GET {{rinha_minimal_api_HostAddress}}/contagem-pessoas
+Accept: application/json
+
+###
